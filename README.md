@@ -98,7 +98,8 @@ FROM [AdventureWorksDW2019].[dbo].[FactInternetSales]
 WHERE LEFT(OrderDateKey, 4) >= YEAR(GETDATE()) - 2 --ensures that we only bring 2 years of date from extraction
 ORDER BY OrderDateKey
 ```
-![image](https://github.com/tankdinh/Sales-Management/assets/126235420/0bd61094-484e-4b1a-bbb0-ccdc5fde622b)
+![image](https://github.com/tankdinh/Sales-Management/assets/126235420/2e19e75a-8f35-4b1b-92d7-bbd4ebfe3e4e)
+
 
 
 ## Entity Relationship Diagram
