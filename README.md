@@ -110,11 +110,11 @@ After importing all CSV files to Power BI, the data model will look like this:
 View the Power BI file [here](https://github.com/tankdinh/Sales-Management/blob/main/Dashboard.pbix).
 
 
-<img src="(https://github.com/tankdinh/Sales-Management/assets/126235420/28647884-14e8-4f6a-a02f-61a3c835db34)">
+![image](https://github.com/tankdinh/Sales-Management/assets/126235420/28647884-14e8-4f6a-a02f-61a3c835db34)
 
 
-<img src="(https://github.com/tankdinh/Sales-Management/assets/126235420/9358f64d-563d-47c1-9409-04480a5c1295)" >
+![image](https://github.com/tankdinh/Sales-Management/assets/126235420/9358f64d-563d-47c1-9409-04480a5c1295)
 
 
-<img src="(https://github.com/tankdinh/Sales-Management/assets/126235420/0a620891-40f3-4238-bcdc-bb5f4c524f09)" >
+![image](https://github.com/tankdinh/Sales-Management/assets/126235420/0a620891-40f3-4238-bcdc-bb5f4c524f09)
 
